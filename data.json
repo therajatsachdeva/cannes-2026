@@ -3,116 +3,12 @@
   "winners": [
     {
       "tier": "gp",
-      "title": "Original Forever",
-      "brand": "adidas",
-      "agency": "Johannes Leonardo, New York / adidas, London",
-      "extra": "Double GP — also won Music",
-      "cat": "Entertainment",
-      "track": "Entertainment",
-      "day": "Day 2",
-      "link": "https://www.canneslions.com/news/cannes-lions-international-festival-of-creativity-announces-winners-across-the-entertainment-and-craft-track-lions"
-    },
-    {
-      "tier": "gp",
-      "title": "Copycats Welcome",
-      "brand": "Clash Royale",
-      "agency": "David, New York",
-      "cat": "Entertainment · Gaming",
-      "track": "Entertainment",
-      "day": "Day 2",
-      "link": "https://www.canneslions.com/news/cannes-lions-international-festival-of-creativity-announces-winners-across-the-entertainment-and-craft-track-lions"
-    },
-    {
-      "tier": "gp",
-      "title": "Berghain",
-      "brand": "Rosalía ft. Björk, Yves Tumor",
-      "agency": "CANADA, Barcelona",
-      "extra": "Music-video Grand Prix",
-      "cat": "Entertainment · Music",
-      "track": "Entertainment",
-      "day": "Day 2",
-      "link": "https://lbbonline.com/news/Cannes-Lions-2026-Grand-Prix-Winners-in-Entertainment-Gaming-Music-Sport-Design-Digital-Craft-Film-Craft-and-Industry-Craft"
-    },
-    {
-      "tier": "gp",
-      "title": "The Thousand Sponsors of Muni",
-      "brand": "Club Deportivo Municipal",
-      "agency": "McCann, Lima",
-      "extra": "Fans became the club's sponsors",
-      "cat": "Entertainment · Sport",
-      "track": "Entertainment",
-      "day": "Day 2",
-      "link": "https://www.canneslions.com/news/cannes-lions-international-festival-of-creativity-announces-winners-across-the-entertainment-and-craft-track-lions"
-    },
-    {
-      "tier": "gp",
-      "title": "Apple TV Rebrand",
-      "brand": "Apple",
-      "agency": "TBWA\\Media Arts Lab, Los Angeles",
-      "cat": "Design",
-      "track": "Craft",
-      "day": "Day 2",
-      "link": "https://www.canneslions.com/news/cannes-lions-international-festival-of-creativity-announces-winners-across-the-entertainment-and-craft-track-lions"
-    },
-    {
-      "tier": "gp",
-      "title": "Project Genie",
-      "brand": "Google",
-      "agency": "Google, Mountain View",
-      "extra": "Genie 3 model → consumer prototype",
-      "cat": "Digital Craft",
-      "track": "Craft",
-      "day": "Day 2",
-      "link": "https://www.canneslions.com/news/cannes-lions-international-festival-of-creativity-announces-winners-across-the-entertainment-and-craft-track-lions"
-    },
-    {
-      "tier": "gp",
-      "title": "Your Way Out",
-      "brand": "Coinbase",
-      "agency": "Isle of Any, New York · dir. Oscar Hudson / MJZ",
-      "cat": "Film Craft",
-      "track": "Craft",
-      "day": "Day 2",
-      "link": "https://www.campaignlive.com/article/whos-leading-cannes-lions-2026-every-us-winner-ranked/1962450"
-    },
-    {
-      "tier": "gp",
-      "title": "Tiny Coffee Shops",
-      "brand": "De'Longhi",
-      "agency": "LOLA, Madrid",
-      "cat": "Industry Craft",
-      "track": "Craft",
-      "day": "Day 2",
-      "link": "https://www.canneslions.com/news/cannes-lions-international-festival-of-creativity-announces-winners-across-the-entertainment-and-craft-track-lions"
-    },
-    {
-      "tier": "gp",
       "title": "Coquí Alarmed",
       "brand": "Hyundai Puerto Rico",
-      "agency": "BBDO Puerto Rico",
-      "extra": "Swapped car alarm for a native frog's call",
-      "cat": "Audio & Radio",
+      "agency": "BBDO Puerto Rico, Guaynabo",
+      "extra": "Replaced factory car-lock sound with the Puerto Rican coquí frog call on rental cars",
+      "cat": "Audio & Radio Lions",
       "track": "Audio",
-      "day": "Day 1",
-      "link": "https://www.campaignlive.com/article/whos-leading-cannes-lions-2026-every-us-winner-ranked/1962450"
-    },
-    {
-      "tier": "gp",
-      "title": "Relax Your Tight End",
-      "brand": "Novartis",
-      "agency": "Fallon, Minneapolis · dir. Eric Wareheim",
-      "cat": "Pharma",
-      "track": "Health",
-      "day": "Day 1",
-      "link": "https://adage.com/events-awards/cannes-lions/aa-grand-prix-2026-monday-winners/"
-    },
-    {
-      "tier": "gp",
-      "title": "Faroe Islands Space Program",
-      "brand": "SKF",
-      "agency": "Nord, Stockholm",
-      "cat": "Creative B2B",
-      "track": "B2B & Brand",
       "day": "Day 1",
       "link": "https://reel360.com/article/cannes-lions-reveals-first-2026-grand-prix-winners/"
     },
@@ -120,127 +16,296 @@
       "tier": "gp",
       "title": "AB InBev: Creativity at Scale",
       "brand": "AB InBev",
-      "agency": "Anheuser-Busch InBev, Leuven · inaugural award",
-      "cat": "Creative Brand",
+      "agency": "Anheuser-Busch InBev, Leuven (in-house)",
+      "extra": "Inaugural Creative Brand Lion Grand Prix; no Gold/Silver/Bronze awarded in category",
+      "cat": "Creative Brand Lions",
       "track": "B2B & Brand",
       "day": "Day 1",
       "link": "https://www.canneslions.com/news/73rd-cannes-lions-international-festival-of-creativity-announces-first-winners"
     },
     {
       "tier": "gp",
-      "title": "Looks Familiar",
-      "brand": "Heinz",
-      "agency": "Rethink",
-      "extra": "Fry boxes worldwide resemble the Heinz keystone",
-      "cat": "Print & Publishing",
-      "track": "Print & Outdoor",
+      "title": "The Faroe Islands Space Program",
+      "brand": "SKF",
+      "agency": "NORD DDB, Stockholm",
+      "extra": "Turned B2B industrial bearings brand into a global sustainability conversation",
+      "cat": "Creative B2B Lions",
+      "track": "B2B & Brand",
+      "day": "Day 1",
+      "link": "https://www.canneslions.com/news/73rd-cannes-lions-international-festival-of-creativity-announces-first-winners"
+    },
+    {
+      "tier": "gp",
+      "title": "The Periodic Fable",
+      "brand": "The Ordinary",
+      "agency": "Uncommon Creative Studio / Smuggler London",
+      "extra": "Spoofed the periodic table replacing elements with beauty buzzwords to expose vague marketing language",
+      "cat": "Health & Wellness Lions",
+      "track": "Health",
       "day": "Day 1",
       "link": "https://reel360.com/article/cannes-lions-reveals-first-2026-grand-prix-winners/"
     },
     {
       "tier": "gp",
-      "title": "Field Barcode",
-      "brand": "—",
-      "agency": "Outdoor GP · jury pres. Aaron Starkman, Rethink",
-      "cat": "Outdoor",
+      "title": "Relax Your Tight End",
+      "brand": "Novartis",
+      "agency": "Fallon, Minneapolis",
+      "extra": "Super Bowl spot directed by Eric Wareheim, featuring NFL tight ends to promote prostate cancer screening",
+      "cat": "Pharma Lions",
+      "track": "Health",
+      "day": "Day 1",
+      "link": "https://www.canneslions.com/news/73rd-cannes-lions-international-festival-of-creativity-announces-first-winners"
+    },
+    {
+      "tier": "gp",
+      "title": "Look Familiar?",
+      "brand": "Heinz Ketchup",
+      "agency": "Rethink, Toronto",
+      "extra": "Global campaign showing fry boxes worldwide resemble Heinz's Keystone logo",
+      "cat": "Print & Publishing Lions",
       "track": "Print & Outdoor",
       "day": "Day 1",
-      "link": "https://reel360.com/article/cannes-lions-reveals-first-2026-grand-prix-winners/"
+      "link": "https://www.canneslions.com/news/73rd-cannes-lions-international-festival-of-creativity-announces-first-winners"
+    },
+    {
+      "tier": "gp",
+      "title": "Field Barcode",
+      "brand": "Mercado Livre",
+      "agency": "GUT, São Paulo",
+      "extra": "Turned Brazil's Pacaembu stadium pitch into a 104-metre-wide scannable barcode",
+      "cat": "Outdoor Lions",
+      "track": "Print & Outdoor",
+      "day": "Day 1",
+      "link": "https://www.brandinginasia.com/cannes-lions-2026-day-one-grand-prix-apac-winners-and-special-awards/"
+    },
+    {
+      "tier": "gp",
+      "title": "Original Forever",
+      "brand": "adidas",
+      "agency": "Johannes Leonardo, New York / adidas, London",
+      "extra": "Double Grand Prix (Entertainment + Music); nostalgic brand film built around adidas x Oasis reunion tour partnership",
+      "cat": "Entertainment Lions",
+      "track": "Entertainment",
+      "day": "Day 2",
+      "link": "https://www.brandinginasia.com/cannes-lions-2026-day-two-grand-prix-apac-winners-and-the-lionheart-award/"
+    },
+    {
+      "tier": "gp",
+      "title": "Original Forever",
+      "brand": "adidas",
+      "agency": "Johannes Leonardo, New York / adidas, London",
+      "extra": "Second Grand Prix for same campaign in Music category; first double GP winner of festival",
+      "cat": "Entertainment Lions for Music",
+      "track": "Entertainment",
+      "day": "Day 2",
+      "link": "https://www.brandinginasia.com/cannes-lions-2026-day-two-grand-prix-apac-winners-and-the-lionheart-award/"
+    },
+    {
+      "tier": "gp",
+      "title": "Berghain",
+      "brand": "Rosalía",
+      "agency": "CANADA (director Nicolas Mendez)",
+      "extra": "Music video Grand Prix; cinematic heartbreak narrative combining orchestral and modern visuals",
+      "cat": "Entertainment Lions for Music (Music Video)",
+      "track": "Entertainment",
+      "day": "Day 2",
+      "link": "https://lbbonline.com/news/Cannes-Lions-2026-Grand-Prix-Winners-in-Entertainment-Gaming-Music-Sport-Design-Digital-Craft-Film-Craft-and-Industry-Craft"
+    },
+    {
+      "tier": "gp",
+      "title": "Copycats Welcome",
+      "brand": "Clash Royale (Supercell)",
+      "agency": "DAVID, New York",
+      "extra": "Targeted copycat game players with a migration offer transferring currency and levels; converted 2.3M players",
+      "cat": "Entertainment Lions for Gaming",
+      "track": "Entertainment",
+      "day": "Day 2",
+      "link": "https://www.brandinginasia.com/cannes-lions-2026-day-two-grand-prix-apac-winners-and-the-lionheart-award/"
+    },
+    {
+      "tier": "gp",
+      "title": "The Thousand Sponsors of Muni",
+      "brand": "Club Deportivo Municipal",
+      "agency": "McCann, Lima",
+      "extra": "Turned football fans into micro-sponsors of a crisis-hit club via jersey grid patches",
+      "cat": "Entertainment Lions for Sport",
+      "track": "Entertainment",
+      "day": "Day 2",
+      "link": "https://www.adnews.com.au/news/cannes-lions-day-two-winners-2026"
+    },
+    {
+      "tier": "gp",
+      "title": "Apple TV Rebrand",
+      "brand": "Apple",
+      "agency": "TBWA\\Media Arts Lab, Los Angeles / Apple, Cupertino",
+      "extra": "Entirely handcrafted rebrand praised as 'gloriously human-made' at a time of AI obsession",
+      "cat": "Design Lions",
+      "track": "Craft",
+      "day": "Day 2",
+      "link": "https://www.brandinginasia.com/cannes-lions-2026-day-two-grand-prix-apac-winners-and-the-lionheart-award/"
+    },
+    {
+      "tier": "gp",
+      "title": "Project Genie",
+      "brand": "Google",
+      "agency": "Google Creative Team, Mountain View",
+      "extra": "First public prototype of Genie 3 AI model; lets users create interactive worlds from text or images",
+      "cat": "Digital Craft Lions",
+      "track": "Craft",
+      "day": "Day 2",
+      "link": "https://www.brandinginasia.com/cannes-lions-2026-day-two-grand-prix-apac-winners-and-the-lionheart-award/"
+    },
+    {
+      "tier": "gp",
+      "title": "Your Way Out",
+      "brand": "Coinbase",
+      "agency": "Isle of Any, New York",
+      "extra": "Film using video game aesthetics to challenge perceptions of the financial system",
+      "cat": "Film Craft Lions",
+      "track": "Craft",
+      "day": "Day 2",
+      "link": "https://www.adnews.com.au/news/cannes-lions-day-two-winners-2026"
+    },
+    {
+      "tier": "gp",
+      "title": "Tiny Coffee Shops",
+      "brand": "De'Longhi",
+      "agency": "LOLA MullenLowe, Madrid",
+      "extra": "Five coffee machines transformed into handcrafted miniature cafés by Grand Budapest Hotel miniature supervisor Simon Weisse",
+      "cat": "Industry Craft Lions",
+      "track": "Craft",
+      "day": "Day 2",
+      "link": "https://www.canneslions.com/news/cannes-lions-international-festival-of-creativity-announces-winners-across-the-entertainment-and-craft-track-lions"
+    },
+    {
+      "tier": "gp",
+      "title": "B2B: Act Like You Know",
+      "brand": "GoDaddy (GoDaddy Airo)",
+      "agency": "Quality Meats, Chicago",
+      "extra": "GoDaddy's first-ever Cannes Lion; Walton Goggins launched a fake eyewear brand to demo AI tool",
+      "cat": "Creative Data Lions",
+      "track": "B2B & Brand",
+      "day": "Day 3",
+      "link": "https://www.canneslions.com/news/winners-of-the-creative-data-direct-media-pr-and-social-and-creator-lions-announced"
+    },
+    {
+      "tier": "gp",
+      "title": "AXA – Three Words",
+      "brand": "AXA",
+      "agency": "Publicis Conseil, Paris",
+      "extra": "Added 'and domestic violence' to France's most common insurance contract to give abuse survivors a legal exit",
+      "cat": "Direct Lions",
+      "track": "B2B & Brand",
+      "day": "Day 3",
+      "link": "https://www.canneslions.com/news/winners-of-the-creative-data-direct-media-pr-and-social-and-creator-lions-announced"
+    },
+    {
+      "tier": "gp",
+      "title": "Dove Real Beauty Redefined for the AI Era",
+      "brand": "Dove (Unilever)",
+      "agency": "Mindshare, New York",
+      "extra": "Partnered with Pinterest to reprogram its algorithm to surface a wider, more realistic spectrum of beauty",
+      "cat": "Media Lions",
+      "track": "B2B & Brand",
+      "day": "Day 3",
+      "link": "https://www.canneslions.com/news/winners-of-the-creative-data-direct-media-pr-and-social-and-creator-lions-announced"
+    },
+    {
+      "tier": "gp",
+      "title": "Lucky Yatra",
+      "brand": "Indian Railways",
+      "agency": "FCB India, Mumbai",
+      "extra": "India's first-ever PR Lions Grand Prix; turned every train ticket into a lottery ticket to boost paid ridership",
+      "cat": "PR Lions",
+      "track": "B2B & Brand",
+      "day": "Day 3",
+      "link": "https://www.canneslions.com/news/winners-of-the-creative-data-direct-media-pr-and-social-and-creator-lions-announced"
+    },
+    {
+      "tier": "gp",
+      "title": "Vaseline Verified",
+      "brand": "Vaseline (Unilever)",
+      "agency": "Ogilvy, Singapore",
+      "extra": "Brand and scientists verified or debunked viral petroleum jelly social media hacks; also won Health & Wellness GP",
+      "cat": "Social & Creator Lions",
+      "track": "Entertainment",
+      "day": "Day 3",
+      "link": "https://www.canneslions.com/news/winners-of-the-creative-data-direct-media-pr-and-social-and-creator-lions-announced"
     },
     {
       "tier": "gold",
       "title": "I'm Not Remarkable",
       "brand": "Apple",
-      "agency": "Accessibility campaign · 2 Gold + 1 Bronze",
-      "cat": "Music / Film Craft",
-      "track": "Entertainment",
+      "agency": "TBWA\\Media Arts Lab, Los Angeles",
+      "cat": "Film Craft Lions / Entertainment Lions for Music",
+      "track": "Craft",
       "day": "Day 2",
-      "link": "https://www.campaignlive.com/article/whos-leading-cannes-lions-2026-every-us-winner-ranked/1962450"
+      "link": "https://www.brandinginasia.com/cannes-lions-2026-day-two-grand-prix-apac-winners-and-the-lionheart-award/"
     },
     {
       "tier": "gold",
-      "title": "Beat Cancer Off",
-      "brand": "Fuck Cancer",
-      "agency": "VML New York & VML Health · Gold (Music)",
-      "cat": "Entertainment · Music",
-      "track": "Entertainment",
+      "title": "The Volvo Cars Safety Standard",
+      "brand": "Volvo",
+      "agency": "",
+      "cat": "Design Lions",
+      "track": "Craft",
       "day": "Day 2",
-      "link": "https://beatcanceroff.com/"
+      "link": "https://roastbrief.us/the-second-day-of-cannes-lions-2026-delivered-169-awards-across-eight-categories-with-grands-prix-for-apple-google-clash-royale-rosalia-adidas-club-deportivo-municipal-coinbase-and-del/"
     },
     {
       "tier": "gold",
-      "title": "The Last Coke in the Desert",
-      "brand": "Coca-Cola",
-      "agency": "VML NY / São Paulo / Mexico City",
-      "extra": "100 years of Coke in Mexico",
-      "cat": "Outdoor",
-      "track": "Print & Outdoor",
-      "day": "Day 1",
-      "link": "https://www.campaignlive.com/article/whos-leading-cannes-lions-2026-every-us-winner-ranked/1962450"
-    },
-    {
-      "tier": "gold",
-      "title": "Beat Cancer Off",
-      "brand": "Fuck Cancer",
-      "agency": "VML New York & VML Health New York",
-      "extra": "Also 2 Bronze (Audio, Film Craft)",
-      "cat": "Health & Wellness",
-      "track": "Health",
-      "day": "Day 1",
-      "link": "https://beatcanceroff.com/"
-    },
-    {
-      "tier": "silver",
-      "title": "Big Man",
-      "brand": "Apple",
-      "agency": "20-min short shot on iPhone 16 Pro",
-      "cat": "Film Craft",
+      "title": "Supernova Adaptive",
+      "brand": "adidas",
+      "agency": "",
+      "cat": "Design Lions",
       "track": "Craft",
       "day": "Day 2",
-      "link": "https://www.campaignlive.com/article/whos-leading-cannes-lions-2026-every-us-winner-ranked/1962450"
-    },
-    {
-      "tier": "silver",
-      "title": "Beat Cancer Off",
-      "brand": "Fuck Cancer",
-      "agency": "VML New York · 2 Silver in Film Craft",
-      "cat": "Film Craft",
-      "track": "Craft",
-      "day": "Day 2",
-      "link": "https://beatcanceroff.com/"
-    },
-    {
-      "tier": "silver",
-      "title": "Relax Your Tight End",
-      "brand": "Novartis",
-      "agency": "Fallon, Minneapolis · Silver (Film)",
-      "cat": "Pharma",
-      "track": "Health",
-      "day": "Day 1",
-      "link": "https://www.campaignlive.com/article/whos-leading-cannes-lions-2026-every-us-winner-ranked/1962450"
-    },
-    {
-      "tier": "bronze",
-      "title": "Cracked Royale",
-      "brand": "Clash Royale",
-      "agency": "David, New York",
-      "cat": "Entertainment · Gaming",
-      "track": "Entertainment",
-      "day": "Day 2",
-      "link": "https://www.campaignlive.com/article/whos-leading-cannes-lions-2026-every-us-winner-ranked/1962450"
-    },
-    {
-      "tier": "bronze",
-      "title": "Project Genie",
-      "brand": "Google",
-      "agency": "Google, Mountain View · Bronze (same category)",
-      "cat": "Digital Craft",
-      "track": "Craft",
-      "day": "Day 2",
-      "link": "https://www.campaignlive.com/article/whos-leading-cannes-lions-2026-every-us-winner-ranked/1962450"
+      "link": "https://roastbrief.us/the-second-day-of-cannes-lions-2026-delivered-169-awards-across-eight-categories-with-grands-prix-for-apple-google-clash-royale-rosalia-adidas-club-deportivo-municipal-coinbase-and-del/"
     }
   ],
   "tally": [
+    {
+      "nm": "Audio & Radio",
+      "g": 2,
+      "s": 5,
+      "b": 7
+    },
+    {
+      "nm": "Creative Brand",
+      "g": 0,
+      "s": 0,
+      "b": 0
+    },
+    {
+      "nm": "Creative B2B",
+      "g": 2,
+      "s": 4,
+      "b": 4
+    },
+    {
+      "nm": "Health & Wellness",
+      "g": 0,
+      "s": 0,
+      "b": 0
+    },
+    {
+      "nm": "Pharma",
+      "g": 1,
+      "s": 2,
+      "b": 3
+    },
+    {
+      "nm": "Print & Publishing",
+      "g": 2,
+      "s": 4,
+      "b": 6
+    },
+    {
+      "nm": "Outdoor",
+      "g": 7,
+      "s": 13,
+      "b": 19
+    },
     {
       "nm": "Entertainment",
       "g": 3,
@@ -248,19 +313,19 @@
       "b": 10
     },
     {
-      "nm": "Ent. · Gaming",
+      "nm": "Entertainment Gaming",
       "g": 1,
       "s": 2,
       "b": 4
     },
     {
-      "nm": "Ent. · Music",
-      "g": 2,
-      "s": 2,
-      "b": 7
+      "nm": "Entertainment Music",
+      "g": 0,
+      "s": 0,
+      "b": 0
     },
     {
-      "nm": "Ent. · Sport",
+      "nm": "Entertainment Sport",
       "g": 3,
       "s": 6,
       "b": 11
@@ -288,96 +353,114 @@
       "g": 2,
       "s": 5,
       "b": 10
+    },
+    {
+      "nm": "Creative Data",
+      "g": 2,
+      "s": 4,
+      "b": 6
+    },
+    {
+      "nm": "Direct",
+      "g": 10,
+      "s": 20,
+      "b": 29
+    },
+    {
+      "nm": "Media",
+      "g": 12,
+      "s": 22,
+      "b": 31
+    },
+    {
+      "nm": "PR",
+      "g": 8,
+      "s": 14,
+      "b": 21
+    },
+    {
+      "nm": "Social & Creator",
+      "g": 7,
+      "s": 16,
+      "b": 26
     }
   ],
   "honours": [
     {
-      "lbl": "LionHeart Award",
+      "lbl": "Creative Marketer of the Year 2026",
+      "name": "AB InBev: Creativity at Scale",
+      "who": "Anheuser-Busch InBev"
+    },
+    {
+      "lbl": "LionHeart Award 2026",
       "name": "Oprah Winfrey",
-      "who": "For using her platform for lasting impact"
+      "who": "Media leader, producer, actress and philanthropist"
     },
     {
-      "lbl": "Creative Marketer of the Year",
-      "name": "AB InBev",
-      "who": "Third time — a festival first · CMO Marcel Marcondes"
-    },
-    {
-      "lbl": "Entertainment Person of the Year",
+      "lbl": "Entertainment Person of the Year 2026",
       "name": "Eddy Cue",
-      "who": "Apple · in conversation with Jerry Bruckheimer"
+      "who": "SVP of Services and Health, Apple"
+    },
+    {
+      "lbl": "Healthcare Network of the Year 2026",
+      "name": "Klick Health",
+      "who": "Klick Health (1st); Ogilvy Health (2nd); Real Chemistry (3rd)"
+    },
+    {
+      "lbl": "Healthcare Agency of the Year 2026",
+      "name": "Klick Health, Toronto",
+      "who": "Klick Health (1st); Ogilvy Health NY (2nd); 21GRAMS NY (3rd)"
     }
   ],
   "pending": [
-    "Film",
-    "Titanium",
+    "Film Lions",
+    "Creative Strategy Lions",
+    "Creative Effectiveness Lions",
+    "Creative Commerce Lions",
+    "Innovation Lions",
+    "Sustainable Development Goals Lions",
     "Glass: The Lion for Change",
-    "Creative Effectiveness",
-    "Creative Strategy",
-    "Creative Data",
-    "Media",
-    "PR",
-    "Social & Influencer",
-    "Direct",
-    "Brand Experience & Activation",
-    "Innovation",
-    "Creative Commerce",
-    "Mobile",
-    "Grand Prix for Good"
+    "Titanium Lions",
+    "Grand Prix for Good",
+    "Creative Business Transformation Lions",
+    "Luxury Lions"
   ],
   "talks": [
     {
-      "talk": "LionHeart seminar",
-      "spk": "Oprah Winfrey",
-      "ven": "Lumière · Tue 23, 10:00",
-      "buzz": 95,
-      "sent": "pos",
-      "read": "Resisted being called a 'brand' for years, then reframed it as 'just an expression of yourself.' Her operating principle: set an intention before every show and check afterwards whether you met it. Told the Whitney Houston story — protecting a vulnerable guest over a ratings win — to argue trust can't be performed, only earned.",
-      "link": "https://www.provokemedia.com/latest/article/cannes-lions-2026-the-best-comms-starts-with-intention-says-oprah-winfrey"
-    },
-    {
-      "talk": "Five marketing truths we can actually agree on",
-      "spk": "Mark Ritson & Byron Sharp",
-      "ven": "Debussy · Mon 22, 15:30",
-      "buzz": 90,
-      "sent": "pos",
-      "read": "Two famous antagonists agreed, for once, on five fundamentals: mental availability does ~70–80% of marketing's job; distinctive brand assets are the mechanism (Ritson retired his own term 'brand codes' live on stage); sophisticated mass beats niche; brand purpose is largely nonsense; and consistency is undervalued — campaigns die at 30–40 days when they should run far longer.",
-      "link": "https://www.thedrum.com/opinion/andrew-tindall-what-ritson-and-sharp-got-right-and-wrong-at-cannes"
-    },
-    {
-      "talk": "Advertising in the age of AI",
-      "spk": "Denise Dresser · OpenAI",
-      "ven": "Debussy · Tue 23, 11:15",
-      "buzz": 86,
-      "sent": "pol",
-      "read": "OpenAI's first Cannes, a coming-out for its ad business: 'We're clearly in the advertising business now.' Pitched ChatGPT ads (labelled, below answers, on free tiers) and a shift from an 'attention economy' to an 'intelligence economy,' with a Codex demo building a dealership campaign without code. Read by some as visionary, by others as a self-serving platform pitch.",
-      "link": "https://lbbonline.com/news/openai-cannes-lions-2026-denise-dresser"
-    },
-    {
-      "talk": "Robots Can't Build Brands",
-      "spk": "Marc Pritchard · P&G",
-      "ven": "Lumière · Tue 23, 14:30",
-      "buzz": 80,
+      "talk": "Advertising in the Age of AI",
+      "spk": "Denise Dresser (Chief Revenue Officer, OpenAI)",
+      "ven": "Debussy Theatre · Day 1, 11:15",
+      "buzz": 82,
       "sent": "mix",
-      "read": "Despite the title, Pritchard embraced the AI future — running a custom 'ChatPG' bot on stage and showing Pantene assets made 5× faster at a fifth of the cost. His real argument: every brand manager can now move like a DTC founder, with AI doing the heavy lifting while humans keep the insight (his Fairy 'Skip the Soak' fix being the human part). Brand-building, in his telling, increasingly proven by retail sales.",
-      "link": "https://mumbrella.com.au/four-visions-of-marketings-future-illustrate-the-deep-confusion-of-cannes-927340"
+      "read": "Dresser framed advertising as shifting from a media operating model to an 'intelligence operating model,' arguing brands must build capabilities to compete in AI-native ecosystems. OpenAI also showcased Codex for automating marketer workflows. Anthropic, by contrast, has publicly opposed ads inside AI assistants, creating a visible philosophical divide on stage and off.",
+      "link": "https://www.storyboard18.com/how-it-works/openai-makes-cannes-lions-debut-pitches-chatgpt-ads-business-as-it-challenges-googles-dominance-102154.htm"
     },
     {
-      "talk": "Entertainment Person of the Year",
-      "spk": "Eddy Cue × Jerry Bruckheimer · Apple",
-      "ven": "Lumière · Mon 22, 12:15",
-      "buzz": 68,
+      "talk": "Robots Can't Build Brands: The New S-Curve of Creative Transformation",
+      "spk": "Marc Pritchard (Chief Brand Officer, P&G)",
+      "ven": "Lumière Theatre · Day 2, 14:30",
+      "buzz": 78,
       "sent": "pos",
-      "read": "Apple TV's philosophy in Cue's words: 'we've never strived to be the most — we strive to be the best.' The news: he and Bruckheimer teased a second F1 film (Apple's biggest movie to date) and a new UAP/UFO conspiracy thriller with F1 director Joseph Kosinski. A warm, long-term-thinking conversation on backing storytellers.",
-      "link": "https://9to5mac.com/2026/06/22/eddy-cue-accepts-entertainment-person-of-the-year-award-at-cannes-lions/"
+      "read": "Pritchard presented as 'ChatPG,' a self-styled AI agent, answering six questions on the future of brand building. He identified three forces in motion — media fragmentation, media-commerce convergence, and the AI turbocharge — and argued AI combined with human creativity acts like 'turbochargers' while brand fundamentals remain constant. He demonstrated in-house P&G campaigns for Secret and Tide Evo Detergent, stating measurement should ultimately focus on retail sales growth.",
+      "link": "https://manifest-media.in/marketing/230626/cannes-lions-2026-get-ready-for-the-most-fun-youll-have-buildin.html"
     },
     {
-      "talk": "Creative Marketer of the Year keynote",
-      "spk": "Marcel Marcondes · AB InBev",
-      "ven": "Lumière · Mon 22, 10:00",
-      "buzz": 60,
+      "talk": "Day 2 Awards Show: Entertainment & Craft Track",
+      "spk": "Simon Cook (CEO, LIONS); Jury Presidents across 8 categories",
+      "ven": "Palais des Festivals · Day 2, evening",
+      "buzz": 91,
       "sent": "pos",
-      "read": "The opening keynote, with AB InBev a record third-time winner. Five plain lessons: dream big but stay humble; solve real business and consumer problems; consistency compounds ('for the long term it's gold'); go beyond ads into experiences; and tech enables but this stays a human business — his 'Justice League' of agency partners doing the work.",
-      "link": "https://campaignme.com/day-1-at-cannes-lions-2026-mena-claims-two-trophies-industry-chatter-offers-lessons-aplenty/"
+      "read": "The ceremony awarded 169 Lions across Design, Digital Craft, Entertainment, Gaming, Music, Sport, Film Craft and Industry Craft. Handcraft dominated the narrative: Apple TV's human-made rebrand, De'Longhi's miniature cafés and Coinbase's cinematic film were praised for depth over technology. adidas and Johannes Leonardo became the festival's first double Grand Prix winners. Oprah Winfrey received the LionHeart Award on stage.",
+      "link": "https://www.brandinginasia.com/cannes-lions-2026-day-two-grand-prix-apac-winners-and-the-lionheart-award/"
+    },
+    {
+      "talk": "Day 3 Awards Show: Data, Direct, Media, PR & Social Track",
+      "spk": "Simon Cook (CEO, LIONS); Jury Presidents across 5 categories",
+      "ven": "Palais des Festivals · Day 3, evening",
+      "buzz": 85,
+      "sent": "pos",
+      "read": "The ceremony celebrated purpose-led and service-design work. AXA's domestic violence insurance clause (Direct) and Indian Railways' lottery-ticket boarding pass (PR) were praised for rewriting category assumptions. Dove's Pinterest algorithm partnership won Media. GoDaddy's Walton Goggins-led B2B campaign won Creative Data and marked the brand's first-ever Lion entry and win. Vaseline Verified took Social & Creator for the second Lion of the festival.",
+      "link": "https://www.canneslions.com/news/winners-of-the-creative-data-direct-media-pr-and-social-and-creator-lions-announced"
     }
   ]
 }
