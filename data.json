@@ -140,12 +140,68 @@
     {
       "tier": "gp",
       "title": "Field Barcode",
-      "brand": "—",
-      "agency": "Outdoor GP · jury pres. Aaron Starkman, Rethink",
+      "brand": "Mercado Livre",
+      "agency": "GUT, São Paulo · jury pres. Aaron Starkman, Rethink",
+      "extra": "Pacaembu stadium pitch turned into a 104m scannable barcode",
       "cat": "Outdoor",
       "track": "Print & Outdoor",
       "day": "Day 1",
       "link": "https://reel360.com/article/cannes-lions-reveals-first-2026-grand-prix-winners/"
+    },
+    {
+      "tier": "gp",
+      "title": "SOS POS",
+      "brand": "BCP",
+      "agency": "Circus Grey, Lima",
+      "extra": "Turned POS terminals into phone-theft bank account blockers; reached 34M Peruvians",
+      "cat": "Creative Data",
+      "track": "Data & Media",
+      "day": "Day 3",
+      "link": "https://www.canneslions.com/news/cannes-lions-international-festival-of-creativity-announces-lion-winners-on-day-three"
+    },
+    {
+      "tier": "gp",
+      "title": "Build Your Own Super Bowl",
+      "brand": "Uber Eats",
+      "agency": "Special, Los Angeles",
+      "extra": "In-app restaurant built 1,000+ bespoke Super Bowl films; +3.7M app visits, best-ever SB sales",
+      "cat": "Media",
+      "track": "Data & Media",
+      "day": "Day 3",
+      "link": "https://www.canneslions.com/news/cannes-lions-international-festival-of-creativity-announces-lion-winners-on-day-three"
+    },
+    {
+      "tier": "gp",
+      "title": "Uva Uva Bombón",
+      "brand": "UVA App",
+      "agency": "de la Cruz Ogilvy, San Juan",
+      "extra": "Bad Bunny Super Bowl shoutout activated a $1 store; 70.9% new app users",
+      "cat": "Direct",
+      "track": "Data & Media",
+      "day": "Day 3",
+      "link": "https://www.canneslions.com/news/cannes-lions-international-festival-of-creativity-announces-lion-winners-on-day-three"
+    },
+    {
+      "tier": "gp",
+      "title": "The KitKat Heist",
+      "brand": "KitKat",
+      "agency": "VML, London",
+      "extra": "Gamified real theft of 400,000+ KitKat bars to track them down at Easter",
+      "cat": "PR",
+      "track": "Data & Media",
+      "day": "Day 3",
+      "link": "https://reel360.com/article/cannes-lions-announces-data-media-direct-pr-social-winners/"
+    },
+    {
+      "tier": "gp",
+      "title": "Could Have Been a Heineken",
+      "brand": "Heineken",
+      "agency": "LePub, Milan",
+      "extra": "WhatsApp voice-note bot: 3+ min note → free beer at the bar",
+      "cat": "Social & Creator",
+      "track": "Data & Media",
+      "day": "Day 3",
+      "link": "https://www.canneslions.com/news/cannes-lions-international-festival-of-creativity-announces-lion-winners-on-day-three"
     },
     {
       "tier": "gold",
@@ -288,6 +344,36 @@
       "g": 2,
       "s": 5,
       "b": 10
+    },
+    {
+      "nm": "Creative Data",
+      "g": 2,
+      "s": 4,
+      "b": 6
+    },
+    {
+      "nm": "Media",
+      "g": 7,
+      "s": 16,
+      "b": 21
+    },
+    {
+      "nm": "Direct",
+      "g": 7,
+      "s": 13,
+      "b": 21
+    },
+    {
+      "nm": "PR",
+      "g": 0,
+      "s": 0,
+      "b": 0
+    },
+    {
+      "nm": "Social & Creator",
+      "g": 8,
+      "s": 14,
+      "b": 21
     }
   ],
   "honours": [
@@ -313,11 +399,6 @@
     "Glass: The Lion for Change",
     "Creative Effectiveness",
     "Creative Strategy",
-    "Creative Data",
-    "Media",
-    "PR",
-    "Social & Influencer",
-    "Direct",
     "Brand Experience & Activation",
     "Innovation",
     "Creative Commerce",
