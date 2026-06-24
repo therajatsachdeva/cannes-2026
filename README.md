@@ -27,10 +27,14 @@ Put the files exactly there. `update.mjs` goes in a `scripts/` folder; `refresh.
 
 ## How the refresh works
 
-`refresh.yml` fires on a cron schedule (5x/day, UTC). Each run executes `update.mjs`, which calls Claude with the web-search tool, asks for current winners + completed-talk recaps as strict JSON, validates the shape, and commits `data.json` only if something changed. The page fetches that file on load.
+`refresh.yml` fires on a cron schedule (2x/day, UTC), timed to the festival. Each run executes `update.mjs`, which calls Claude with the web-search tool, asks for current winners + completed-talk recaps as strict JSON, validates the shape, and commits `data.json` only if something changed. The page fetches that file on load.
 
 ### Schedule
-`cron: "0 7,11,15,19,21 * * *"` → 07:00, 11:00, 15:00, 19:00, 21:00 UTC (≈ 08:00–22:00 UK in summer). Edit the times in `refresh.yml` if you want a different spread. Note: GitHub's scheduled runs can lag by a few minutes under load — fine for this.
+Two runs a day, timed to Cannes (CEST = UTC+2):
+- `cron: "0 20 * * *"` → 22:00 CEST — after the day's talks have wrapped and that evening's awards show, so it picks up the new winners and same-evening talk write-ups.
+- `cron: "0 6 * * *"` → 08:00 CEST — a morning catch-up for trade-press coverage that posts overnight.
+
+Edit the times in `refresh.yml` if you want a different spread. Note: GitHub's scheduled runs can lag by a few minutes under load — fine for this.
 
 ### Auto-stop
 `update.mjs` has `STOP_AFTER = 2026-07-04`. After that date the script exits without doing anything, so the job quietly no-ops even though the cron keeps firing. To stop cleanly, just delete `refresh.yml` (or disable the workflow in the Actions tab) once you're done next week.
