@@ -1,5 +1,5 @@
 {
-  "updated": "24 Jun 2026",
+  "updated": "25 Jun 2026",
   "winners": [
     {
       "tier": "gp",
@@ -73,7 +73,7 @@
       "cat": "Film Craft",
       "track": "Craft",
       "day": "Day 2",
-      "link": "https://www.campaignlive.com/article/whos-leading-cannes-lions-2026-every-us-winner-ranked/1962450"
+      "link": "https://www.thedrum.com/news/cannes-lions-2026-watch-every-grand-prix-winner"
     },
     {
       "tier": "gp",
@@ -94,7 +94,18 @@
       "cat": "Audio & Radio",
       "track": "Audio",
       "day": "Day 1",
-      "link": "https://www.campaignlive.com/article/whos-leading-cannes-lions-2026-every-us-winner-ranked/1962450"
+      "link": "https://www.canneslions.com/news/73rd-cannes-lions-international-festival-of-creativity-announces-first-winners"
+    },
+    {
+      "tier": "gp",
+      "title": "The Periodic Fable",
+      "brand": "The Ordinary",
+      "agency": "Uncommon Creative Studio / Smuggler, London",
+      "extra": "Replaced periodic table elements with baseless beauty buzzwords to debunk harmful skincare marketing",
+      "cat": "Health & Wellness",
+      "track": "Health",
+      "day": "Day 1",
+      "link": "https://www.canneslions.com/news/73rd-cannes-lions-international-festival-of-creativity-announces-first-winners"
     },
     {
       "tier": "gp",
@@ -104,7 +115,7 @@
       "cat": "Pharma",
       "track": "Health",
       "day": "Day 1",
-      "link": "https://adage.com/events-awards/cannes-lions/aa-grand-prix-2026-monday-winners/"
+      "link": "https://www.canneslions.com/news/73rd-cannes-lions-international-festival-of-creativity-announces-first-winners"
     },
     {
       "tier": "gp",
@@ -186,11 +197,11 @@
       "title": "The KitKat Heist",
       "brand": "KitKat",
       "agency": "VML, London",
-      "extra": "Gamified real theft of 400,000+ KitKat bars to track them down at Easter",
+      "extra": "Gamified real theft of 400,000+ KitKat bars; $224M earned media in 10 days",
       "cat": "PR",
       "track": "Data & Media",
       "day": "Day 3",
-      "link": "https://reel360.com/article/cannes-lions-announces-data-media-direct-pr-social-winners/"
+      "link": "https://lbbonline.com/news/Cannes-Lions-2026-Grand-Prix-Winners-in-Creative-Data-Direct-Media-PR-and-Social-and-Creator"
     },
     {
       "tier": "gp",
@@ -204,6 +215,94 @@
       "link": "https://www.canneslions.com/news/cannes-lions-international-festival-of-creativity-announces-lion-winners-on-day-three"
     },
     {
+      "tier": "gp",
+      "title": "Caption with Intention",
+      "brand": "Academy of Motion Picture Arts & Sciences / Chicago Hearing Society",
+      "agency": "FCB Chicago",
+      "extra": "Redefined visual language of captions via animation, typography & colour; now in Oscar submission rules; reaches 433M Deaf/HoH people",
+      "cat": "Brand Experience & Activation",
+      "track": "Experience & Activation",
+      "day": "Day 4",
+      "link": "https://www.canneslions.com/news/lion-winners-announced-for-day-four-of-the-festival"
+    },
+    {
+      "tier": "gp",
+      "title": "Shot on iPhone",
+      "brand": "Apple",
+      "agency": "TBWA\\Media Arts Lab, Los Angeles",
+      "extra": "10-year-old campaign; iPhone now world's best-selling smartphone per Counterpoint 2025",
+      "cat": "Creative Effectiveness",
+      "track": "Strategy & Effectiveness",
+      "day": "Day 4",
+      "link": "https://www.canneslions.com/news/lion-winners-announced-for-day-four-of-the-festival"
+    },
+    {
+      "tier": "gp",
+      "title": "Three Words",
+      "brand": "AXA",
+      "agency": "Publicis Conseil, Paris",
+      "extra": "Second GP of festival for this campaign (also won Creative Strategy)",
+      "cat": "Creative Strategy",
+      "track": "Strategy & Effectiveness",
+      "day": "Day 4",
+      "link": "https://www.canneslions.com/news/lion-winners-announced-for-day-four-of-the-festival"
+    },
+    {
+      "tier": "gp",
+      "title": "Sounds Right",
+      "brand": "Museum for the United Nations – UN Live / Spotify",
+      "agency": "AKQA, Copenhagen",
+      "extra": "Launched NATURE as an official Spotify artist; music streams fund conservation",
+      "cat": "Innovation",
+      "track": "Innovation",
+      "day": "Day 4",
+      "link": "https://www.canneslions.com/news/lion-winners-announced-for-day-four-of-the-festival"
+    },
+    {
+      "tier": "gp",
+      "title": "Preserved Promos",
+      "brand": "Ziploc",
+      "agency": "VML, New York",
+      "extra": "Influencer-led mobile experience turned expired coupons into new savings for shoppers",
+      "cat": "Creative Commerce",
+      "track": "Commerce & Retail",
+      "day": "Day 4",
+      "link": "https://www.canneslions.com/news/lion-winners-announced-for-day-four-of-the-festival"
+    },
+    {
+      "tier": "gp",
+      "title": "Long Live The Prince",
+      "brand": "Kiyan Prince Foundation / EA Sports / QPR / Match Attax",
+      "agency": "Engine, London",
+      "extra": "Titanium Grand Prix — boundary-busting industry-direction setter",
+      "cat": "Titanium",
+      "track": "Titanium",
+      "day": "Day 5",
+      "link": "https://www.canneslions.com/news/lions-winners-day-five"
+    },
+    {
+      "tier": "gp",
+      "title": "Data Tienda",
+      "brand": "We Capital",
+      "agency": "DDB México, Mexico City",
+      "extra": "Glass: The Lion for Change Grand Prix — culture-shifting creativity",
+      "cat": "Glass: The Lion for Change",
+      "track": "Glass",
+      "day": "Day 5",
+      "link": "https://www.canneslions.com/news/lions-winners-day-five"
+    },
+    {
+      "tier": "gp",
+      "title": "Save Ralph",
+      "brand": "Humane Society International",
+      "agency": "Humane Society International / Vespa Pictures, California",
+      "extra": "Grand Prix for Good",
+      "cat": "Grand Prix for Good",
+      "track": "Good",
+      "day": "Day 5",
+      "link": "https://www.canneslions.com/news/lions-winners-day-five"
+    },
+    {
       "tier": "gold",
       "title": "I'm Not Remarkable",
       "brand": "Apple",
@@ -211,7 +310,7 @@
       "cat": "Music / Film Craft",
       "track": "Entertainment",
       "day": "Day 2",
-      "link": "https://www.campaignlive.com/article/whos-leading-cannes-lions-2026-every-us-winner-ranked/1962450"
+      "link": "https://www.thedrum.com/news/cannes-lions-2026-watch-every-grand-prix-winner"
     },
     {
       "tier": "gold",
@@ -232,7 +331,7 @@
       "cat": "Outdoor",
       "track": "Print & Outdoor",
       "day": "Day 1",
-      "link": "https://www.campaignlive.com/article/whos-leading-cannes-lions-2026-every-us-winner-ranked/1962450"
+      "link": "https://www.thedrum.com/news/cannes-lions-2026-watch-every-grand-prix-winner"
     },
     {
       "tier": "gold",
@@ -253,7 +352,7 @@
       "cat": "Film Craft",
       "track": "Craft",
       "day": "Day 2",
-      "link": "https://www.campaignlive.com/article/whos-leading-cannes-lions-2026-every-us-winner-ranked/1962450"
+      "link": "https://www.thedrum.com/news/cannes-lions-2026-watch-every-grand-prix-winner"
     },
     {
       "tier": "silver",
@@ -273,7 +372,7 @@
       "cat": "Pharma",
       "track": "Health",
       "day": "Day 1",
-      "link": "https://www.campaignlive.com/article/whos-leading-cannes-lions-2026-every-us-winner-ranked/1962450"
+      "link": "https://www.thedrum.com/news/cannes-lions-2026-watch-every-grand-prix-winner"
     },
     {
       "tier": "bronze",
@@ -283,7 +382,7 @@
       "cat": "Entertainment · Gaming",
       "track": "Entertainment",
       "day": "Day 2",
-      "link": "https://www.campaignlive.com/article/whos-leading-cannes-lions-2026-every-us-winner-ranked/1962450"
+      "link": "https://www.thedrum.com/news/cannes-lions-2026-watch-every-grand-prix-winner"
     },
     {
       "tier": "bronze",
@@ -293,7 +392,7 @@
       "cat": "Digital Craft",
       "track": "Craft",
       "day": "Day 2",
-      "link": "https://www.campaignlive.com/article/whos-leading-cannes-lions-2026-every-us-winner-ranked/1962450"
+      "link": "https://www.thedrum.com/news/cannes-lions-2026-watch-every-grand-prix-winner"
     }
   ],
   "tally": [
@@ -374,6 +473,90 @@
       "g": 8,
       "s": 14,
       "b": 21
+    },
+    {
+      "nm": "Brand Experience & Activation",
+      "g": 11,
+      "s": 25,
+      "b": 32
+    },
+    {
+      "nm": "Creative Effectiveness",
+      "g": 3,
+      "s": 6,
+      "b": 7
+    },
+    {
+      "nm": "Creative Strategy",
+      "g": 1,
+      "s": 2,
+      "b": 3
+    },
+    {
+      "nm": "Innovation",
+      "g": 1,
+      "s": 2,
+      "b": 3
+    },
+    {
+      "nm": "Creative Commerce",
+      "g": 3,
+      "s": 8,
+      "b": 9
+    },
+    {
+      "nm": "Film",
+      "g": 8,
+      "s": 20,
+      "b": 31
+    },
+    {
+      "nm": "Glass",
+      "g": 3,
+      "s": 1,
+      "b": 3
+    },
+    {
+      "nm": "Titanium",
+      "g": 0,
+      "s": 0,
+      "b": 5
+    },
+    {
+      "nm": "Health & Wellness",
+      "g": 0,
+      "s": 0,
+      "b": 0
+    },
+    {
+      "nm": "Audio & Radio",
+      "g": 2,
+      "s": 5,
+      "b": 7
+    },
+    {
+      "nm": "Print & Publishing",
+      "g": 0,
+      "s": 0,
+      "b": 0
+    },
+    {
+      "nm": "Outdoor",
+      "g": 0,
+      "s": 0,
+      "b": 0
+    },
+    {
+      "nm": "Pharma",
+      "g": 1,
+      "s": 2,
+      "b": 3
+    },
+    {
+      "nm": "Creative B2B",
+      "g": 2,
+      "s": 4,
+      "b": 4
     }
   ],
   "honours": [
@@ -391,20 +574,14 @@
       "lbl": "Entertainment Person of the Year",
       "name": "Eddy Cue",
       "who": "Apple · in conversation with Jerry Bruckheimer"
+    },
+    {
+      "lbl": "Lion of St. Mark",
+      "name": "Colleen DeCourcy",
+      "who": "Awarded on Day 5 closing ceremony for outstanding contribution to the creative communications industry"
     }
   ],
-  "pending": [
-    "Film",
-    "Titanium",
-    "Glass: The Lion for Change",
-    "Creative Effectiveness",
-    "Creative Strategy",
-    "Brand Experience & Activation",
-    "Innovation",
-    "Creative Commerce",
-    "Mobile",
-    "Grand Prix for Good"
-  ],
+  "pending": [],
   "talks": [
     {
       "talk": "LionHeart seminar",
