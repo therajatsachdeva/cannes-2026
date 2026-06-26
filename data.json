@@ -1,5 +1,5 @@
 {
-  "updated": "25 Jun 2026",
+  "updated": "26 Jun 2026",
   "winners": [
     {
       "tier": "gp",
@@ -216,58 +216,80 @@
     },
     {
       "tier": "gp",
-      "title": "Caption with Intention",
-      "brand": "Academy of Motion Picture Arts & Sciences / Chicago Hearing Society",
-      "agency": "FCB Chicago",
-      "extra": "Redefined visual language of captions via animation, typography & colour; now in Oscar submission rules; reaches 433M Deaf/HoH people",
+      "title": "Expedition Impossible",
+      "brand": "Columbia Sportswear",
+      "agency": "Adam&Eve\\TBWA, London",
+      "extra": "Offered the company to anyone who could prove the Earth was flat; wide PR and brand engagement",
       "cat": "Brand Experience & Activation",
       "track": "Experience & Activation",
       "day": "Day 4",
-      "link": "https://www.canneslions.com/news/lion-winners-announced-for-day-four-of-the-festival"
-    },
-    {
-      "tier": "gp",
-      "title": "Shot on iPhone",
-      "brand": "Apple",
-      "agency": "TBWA\\Media Arts Lab, Los Angeles",
-      "extra": "10-year-old campaign; iPhone now world's best-selling smartphone per Counterpoint 2025",
-      "cat": "Creative Effectiveness",
-      "track": "Strategy & Effectiveness",
-      "day": "Day 4",
-      "link": "https://www.canneslions.com/news/lion-winners-announced-for-day-four-of-the-festival"
+      "link": "https://lbbonline.com/news/Cannes-Lions-2026-Grand-Prix-Winners-in-Brand-Experience-and-Activation-Business-Transformation-Commerce-Effectiveness-Strategy-Innovation-and-Luxury"
     },
     {
       "tier": "gp",
       "title": "Three Words",
       "brand": "AXA",
       "agency": "Publicis Conseil, Paris",
-      "extra": "Second GP of festival for this campaign (also won Creative Strategy)",
+      "extra": "Added domestic-violence relocation clause to home insurance; won both Creative Effectiveness and prior Titanium GP",
+      "cat": "Creative Effectiveness",
+      "track": "Strategy & Effectiveness",
+      "day": "Day 4",
+      "link": "https://lbbonline.com/news/Cannes-Lions-2026-Grand-Prix-Winners-in-Brand-Experience-and-Activation-Business-Transformation-Commerce-Effectiveness-Strategy-Innovation-and-Luxury"
+    },
+    {
+      "tier": "gp",
+      "title": "The Pub That Refused to Die",
+      "brand": "Heineken",
+      "agency": "LePub, Milan / Publicis Dublin",
+      "extra": "Second GP of festival for Heineken/LePub — 26 locals bought their pub; Heineken provided training and a resource hub",
       "cat": "Creative Strategy",
       "track": "Strategy & Effectiveness",
       "day": "Day 4",
-      "link": "https://www.canneslions.com/news/lion-winners-announced-for-day-four-of-the-festival"
+      "link": "https://lbbonline.com/news/Cannes-Lions-2026-Grand-Prix-Winners-in-Brand-Experience-and-Activation-Business-Transformation-Commerce-Effectiveness-Strategy-Innovation-and-Luxury"
     },
     {
       "tier": "gp",
-      "title": "Sounds Right",
-      "brand": "Museum for the United Nations – UN Live / Spotify",
-      "agency": "AKQA, Copenhagen",
-      "extra": "Launched NATURE as an official Spotify artist; music streams fund conservation",
+      "title": "Supernova Adaptive",
+      "brand": "adidas",
+      "agency": "TBWA\\Canada",
+      "extra": "First performance running shoe designed with and for the Down syndrome community; adidas' second GP of the festival",
       "cat": "Innovation",
       "track": "Innovation",
       "day": "Day 4",
-      "link": "https://www.canneslions.com/news/lion-winners-announced-for-day-four-of-the-festival"
+      "link": "https://www.brandinginasia.com/cannes-lions-2026-day-four-grand-prix-apac-winners-and-ogilvys-regional-honor/"
     },
     {
       "tier": "gp",
-      "title": "Preserved Promos",
-      "brand": "Ziploc",
-      "agency": "VML, New York",
-      "extra": "Influencer-led mobile experience turned expired coupons into new savings for shoppers",
+      "title": "Lucky Fan Index",
+      "brand": "Wisła Kraków Football Club",
+      "agency": "VML Warsaw",
+      "extra": "Turned relegation-zone fan data into personalised VIP upgrades or discount offers; +42.2% avg attendance",
       "cat": "Creative Commerce",
       "track": "Commerce & Retail",
       "day": "Day 4",
-      "link": "https://www.canneslions.com/news/lion-winners-announced-for-day-four-of-the-festival"
+      "link": "https://lbbonline.com/news/Cannes-Lions-2026-Grand-Prix-Winners-in-Brand-Experience-and-Activation-Business-Transformation-Commerce-Effectiveness-Strategy-Innovation-and-Luxury"
+    },
+    {
+      "tier": "gp",
+      "title": "The Wedding Rice",
+      "brand": "Wikifarmer",
+      "agency": "McCann Athens",
+      "extra": "Greece's first-ever Grand Prix — repurposed EU-rejected broken rice as bulk wedding confetti via Wikifarmer platform",
+      "cat": "Creative Business Transformation",
+      "track": "Strategy & Effectiveness",
+      "day": "Day 4",
+      "link": "https://www.brandinginasia.com/cannes-lions-2026-day-four-grand-prix-apac-winners-and-ogilvys-regional-honor/"
+    },
+    {
+      "tier": "gp",
+      "title": "Warmer Together",
+      "brand": "Moncler",
+      "agency": "Wesayhi, Sliema",
+      "extra": "Al Pacino & Robert De Niro cinematic friendship campaign; 85.4M net sales, +48% YoY",
+      "cat": "Luxury",
+      "track": "Commerce & Retail",
+      "day": "Day 4",
+      "link": "https://www.brandinginasia.com/cannes-lions-2026-day-four-grand-prix-apac-winners-and-ogilvys-regional-honor/"
     },
     {
       "tier": "gp",
@@ -476,33 +498,45 @@
     },
     {
       "nm": "Brand Experience & Activation",
-      "g": 11,
-      "s": 25,
-      "b": 32
+      "g": 8,
+      "s": 14,
+      "b": 24
     },
     {
       "nm": "Creative Effectiveness",
-      "g": 3,
-      "s": 6,
+      "g": 2,
+      "s": 4,
       "b": 7
     },
     {
       "nm": "Creative Strategy",
-      "g": 1,
-      "s": 2,
-      "b": 3
+      "g": 4,
+      "s": 7,
+      "b": 10
     },
     {
       "nm": "Innovation",
       "g": 1,
+      "s": 1,
+      "b": 2
+    },
+    {
+      "nm": "Creative Commerce",
+      "g": 1,
+      "s": 5,
+      "b": 7
+    },
+    {
+      "nm": "Creative Business Transformation",
+      "g": 1,
       "s": 2,
       "b": 3
     },
     {
-      "nm": "Creative Commerce",
-      "g": 3,
-      "s": 8,
-      "b": 9
+      "nm": "Luxury",
+      "g": 1,
+      "s": 1,
+      "b": 2
     },
     {
       "nm": "Film",
@@ -557,6 +591,12 @@
       "g": 2,
       "s": 4,
       "b": 4
+    },
+    {
+      "nm": "Creative Brand",
+      "g": 1,
+      "s": 0,
+      "b": 0
     }
   ],
   "honours": [
@@ -579,6 +619,16 @@
       "lbl": "Lion of St. Mark",
       "name": "Colleen DeCourcy",
       "who": "Awarded on Day 5 closing ceremony for outstanding contribution to the creative communications industry"
+    },
+    {
+      "lbl": "Media Network of the Year",
+      "name": "Carat (dentsu)",
+      "who": "Named Media Network of the Year at Cannes Lions 2026"
+    },
+    {
+      "lbl": "Asia Regional Network of the Year",
+      "name": "Ogilvy",
+      "who": "Led by multiple Lions for Ogilvy Singapore across Media, Direct and Social categories"
     }
   ],
   "pending": [],
